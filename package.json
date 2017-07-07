@@ -1,0 +1,20 @@
+{
+  "name": "google-clustering-map",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.10",
+    "styled-components": "2.1.0",
+    "points-cluster": "0.1.4",
+    "google-map-react": "0.24.0",
+    "prop-types": "15.5.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
