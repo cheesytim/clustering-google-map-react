@@ -6,6 +6,7 @@ based on [google-map-react](https://github.com/istarkov/google-map-react) (witho
 ### [Demo](https://tim152.github.io/clustering-google-map-react/)
 <img src="https://github.com/Tim152/clustering-google-map-react/blob/master/public/demo.png" alt="clustering google map react" width="410">
 
+/src/components/GoogleMap/index.js
 ```javascript
 import React from 'react';
 import GoogleMapReact from 'google-map-react';
