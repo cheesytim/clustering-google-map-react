@@ -3,13 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "google-map-react": "0.24.0",
+    "immutable": "^3.8.1",
+    "points-cluster": "0.1.4",
+    "prop-types": "15.5.10",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.10",
-    "styled-components": "2.1.0",
-    "points-cluster": "0.1.4",
-    "google-map-react": "0.24.0",
-    "prop-types": "15.5.10"
+    "styled-components": "2.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
