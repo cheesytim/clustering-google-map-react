@@ -117,4 +117,4 @@ export class GoogleMap extends React.PureComponent {
 
 export default GoogleMap;
 ```
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project has bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
