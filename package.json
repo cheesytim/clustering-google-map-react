@@ -1,9 +1,10 @@
 {
   "name": "google-clustering-map",
-  "version": "0.1.0",
+  "author": "Tim Bochkarev",
+  "version": "0.2.0",
   "private": true,
   "dependencies": {
-    "google-map-react": "0.24.0",
+    "google-map-react": "1.0.1",
     "immutable": "^3.8.1",
     "points-cluster": "0.1.4",
     "prop-types": "15.5.10",
