@@ -1,6 +1,15 @@
 {
-  "main.css": "static/css/main.c239a46a.css",
-  "main.css.map": "static/css/main.c239a46a.css.map",
-  "main.js": "static/js/main.6f47fe66.js",
-  "main.js.map": "static/js/main.6f47fe66.js.map"
+  "files": {
+    "main.css": "/clustering-google-map-react/static/css/main.22f1c137.chunk.css",
+    "main.js": "/clustering-google-map-react/static/js/main.ff3066ab.chunk.js",
+    "main.js.map": "/clustering-google-map-react/static/js/main.ff3066ab.chunk.js.map",
+    "runtime~main.js": "/clustering-google-map-react/static/js/runtime~main.777b8af2.js",
+    "runtime~main.js.map": "/clustering-google-map-react/static/js/runtime~main.777b8af2.js.map",
+    "static/js/2.601eefca.chunk.js": "/clustering-google-map-react/static/js/2.601eefca.chunk.js",
+    "static/js/2.601eefca.chunk.js.map": "/clustering-google-map-react/static/js/2.601eefca.chunk.js.map",
+    "index.html": "/clustering-google-map-react/index.html",
+    "precache-manifest.a5a1e4e3f71803a46dde454ba07935a1.js": "/clustering-google-map-react/precache-manifest.a5a1e4e3f71803a46dde454ba07935a1.js",
+    "service-worker.js": "/clustering-google-map-react/service-worker.js",
+    "static/css/main.22f1c137.chunk.css.map": "/clustering-google-map-react/static/css/main.22f1c137.chunk.css.map"
+  }
 }

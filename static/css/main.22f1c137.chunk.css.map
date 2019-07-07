@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,qBAIE,UAAW,CACX,WACF,CAEA,EACC,qBACD,CAEA,KACE,QAAS,CACT,SAAU,CACV,sBACF","file":"main.22f1c137.chunk.css","sourcesContent":["html,\nbody,\n.App,\n#root {\n  width: 100%;\n  height: 100%;\n}\n\n* {\n\tbox-sizing: border-box;\n}\n\nbody {\n  margin: 0;\n  padding: 0;\n  font-family: sans-serif;\n}\n"]}
