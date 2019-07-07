@@ -11,7 +11,7 @@
     "prop-types": "15.5.10",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.10",
+    "react-scripts": "3.0.1",
     "styled-components": "2.1.0"
   },
   "scripts": {
@@ -24,5 +24,17 @@
   },
   "devDependencies": {
     "gh-pages": "^2.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
